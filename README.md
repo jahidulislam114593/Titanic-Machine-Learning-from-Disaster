@@ -57,4 +57,4 @@ This project highlighted the importance of gender, age, class, and fare in deter
 To run this analysis locally:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/titanic-analysis.git
+   git clone https://github.com/jahidulislam114593/Titanic-Machine-Learning-from-Disaster.git
